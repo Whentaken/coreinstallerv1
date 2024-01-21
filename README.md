@@ -1,4 +1,4 @@
 # CORE VERSION INSTALLER
 
-- this might not work u can try im to lazy to update
-- ps core is not doing 8.51 anymore!
+- select 5 to download 8.51
+- then put the folder location where u wanna download 8.51
